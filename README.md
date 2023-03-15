@@ -1,1 +1,1 @@
-# lstm
+# lstm based stock prediction
